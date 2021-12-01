@@ -1,0 +1,35 @@
+#navbar #dropdown-header .row:nth-child(1) {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+#navbar #dropdown-header .row:nth-child(2) {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+#navbar {
+  background: rgb(10, 8, 33);
+  background: linear-gradient(90deg, rgba(10, 8, 33, 1) 0%, rgba(227, 23, 23, 1) 35%, rgba(236, 255, 0, 1) 100%);
+}
+
+.logo {
+  width: 65%;
+}
+
+#navbar-in {
+  font-size: 30px;
+}
+
+#navbar-sub-brand {
+  font-size: 25px;
+  color: black;
+}
+
+#navbar-img {
+  width: 20%;
+}
